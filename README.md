@@ -1,5 +1,5 @@
 # secretary-problem-sim
-This simple program simulates the secretary problem (https://en.wikipedia.org/wiki/Secretary_problem) and compares different stopping rules.
+This simple program simulates the [secretary problem](https://en.wikipedia.org/wiki/Secretary_problem) and compares different stopping rules.
 
 # Description
 The most basic form of the secretary problem poses the following scenario: Given a random permutation of an ordered sequence `nums`, a _strategy_ is an algorithm that selects an element of `nums`, but may only read elements in the given order, and can only select the current element. 
